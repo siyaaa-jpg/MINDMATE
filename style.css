@@ -1,0 +1,413 @@
+.iphone-plus.iphone-plus-wrapper {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.iphone-plus .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 428px;
+  height: 926px;
+  position: relative;
+}
+
+.iphone-plus .text-wrapper {
+  position: absolute;
+  width: 153px;
+  top: 35px;
+  left: 28px;
+  font-family: "Laila", Helvetica;
+  font-weight: 500;
+  color: #df6145;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-plus .finding-peace {
+  position: absolute;
+  width: 315px;
+  height: 62px;
+  top: 108px;
+  left: 32px;
+  font-family: "Exo", Helvetica;
+  font-weight: 600;
+  color: #df6145;
+  font-size: 28px;
+  letter-spacing: 0;
+  line-height: 31.1px;
+}
+
+.iphone-plus .overlap {
+  position: absolute;
+  width: 74px;
+  height: 22px;
+  top: 40px;
+  left: 328px;
+  background-color: #f07a69;
+  border-radius: 10px;
+}
+
+.iphone-plus .text-wrapper-2 {
+  position: absolute;
+  width: 60px;
+  top: 2px;
+  left: 14px;
+  font-family: "Karla", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 12px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-plus .text-wrapper-3 {
+  position: absolute;
+  width: 86px;
+  height: 28px;
+  top: 105px;
+  left: 372px;
+  font-family: "Exo", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  white-space: nowrap;
+}
+
+.iphone-plus .frame {
+  position: absolute;
+  width: 239px;
+  height: 280px;
+  top: 219px;
+  left: 95px;
+}
+
+.iphone-plus .overlap-group {
+  position: absolute;
+  width: 428px;
+  height: 46px;
+  top: 499px;
+  left: 0;
+  background-color: #b53827;
+}
+
+.iphone-plus .text-wrapper-4 {
+  position: absolute;
+  width: 71px;
+  height: 28px;
+  top: 8px;
+  left: 33px;
+  font-family: "Exo", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  white-space: nowrap;
+}
+
+.iphone-plus .text-wrapper-5 {
+  position: absolute;
+  width: 105px;
+  height: 28px;
+  top: 8px;
+  left: 160px;
+  font-family: "Exo", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  white-space: nowrap;
+}
+
+.iphone-plus .text-wrapper-6 {
+  position: absolute;
+  width: 105px;
+  height: 28px;
+  top: 8px;
+  left: 313px;
+  font-family: "Exo", Helvetica;
+  font-weight: 500;
+  color: #ffffff;
+  font-size: 30px;
+  letter-spacing: 0;
+  line-height: 27.5px;
+  white-space: nowrap;
+}
+
+.iphone-plus .overlap-group-2 {
+  position: absolute;
+  width: 415px;
+  height: 261px;
+  top: 592px;
+  left: 0;
+}
+
+.iphone-plus .rectangle {
+  top: 21px;
+  position: absolute;
+  width: 258px;
+  height: 48px;
+  left: 78px;
+  background-color: #b7b7b7;
+  border-radius: 81px;
+}
+
+.iphone-plus .rectangle-2 {
+  top: 126px;
+  position: absolute;
+  width: 258px;
+  height: 48px;
+  left: 78px;
+  background-color: #b7b7b7;
+  border-radius: 81px;
+}
+
+.iphone-plus .polygon {
+  position: absolute;
+  width: 130px;
+  height: 53px;
+  top: 208px;
+  left: 146px;
+}
+
+.iphone-plus .text-wrapper-7 {
+  position: absolute;
+  width: 98px;
+  height: 18px;
+  top: 226px;
+  left: 166px;
+  font-family: "Exo", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+.iphone-plus .group {
+  position: absolute;
+  width: 415px;
+  height: 261px;
+  top: 0;
+  left: 0;
+}
+
+.iphone-plus .username {
+  position: absolute;
+  width: 266px;
+  height: 36px;
+  top: 26px;
+  left: 76px;
+  font-family: "Exo", Helvetica;
+  font-weight: 600;
+  color: #918989;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.iphone-plus .password {
+  position: absolute;
+  width: 266px;
+  height: 36px;
+  top: 131px;
+  left: 76px;
+  font-family: "Exo", Helvetica;
+  font-weight: 600;
+  color: #918989;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.iphone-plus.frame-wrapper {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.iphone-plus .element-wrapper {
+  background-color: #ffffff;
+  width: 1512px;
+  height: 982px;
+}
+
+.iphone-plus .element {
+  height: 982px;
+  background-image: url(./img/background.png);
+  background-size: 100% 100%;
+}
+
+.iphone-plus .overlap-group-3 {
+  position: relative;
+  width: 1512px;
+  height: 982px;
+  background-image: url(./img/objects.png);
+  background-size: 100% 100%;
+}
+
+.iphone-plus .text-wrapper-8 {
+  position: absolute;
+  width: 516px;
+  top: 18px;
+  left: 907px;
+  font-family: "Laila", Helvetica;
+  font-weight: 500;
+  color: #df6145;
+  font-size: 83px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.iphone-plus .finding-peace-2 {
+  position: absolute;
+  width: 490px;
+  height: 80px;
+  top: 155px;
+  left: 891px;
+  font-family: "Exo", Helvetica;
+  font-weight: 600;
+  color: #df6145;
+  font-size: 41px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: 45.5px;
+}
+
+.iphone-plus .login {
+  position: absolute;
+  width: 217px;
+  height: 51px;
+  top: 58px;
+  left: 249px;
+  font-family: "Exo", Helvetica;
+  font-weight: 600;
+  color: #a43e29;
+  font-size: 55px;
+  letter-spacing: 3.3px;
+  line-height: 61.1px;
+  white-space: nowrap;
+}
+
+.iphone-plus .overlap-2 {
+  position: absolute;
+  width: 545px;
+  height: 67px;
+  top: 307px;
+  left: 853px;
+}
+
+.iphone-plus .rectangle-3 {
+  position: absolute;
+  width: 533px;
+  height: 67px;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+  border-radius: 81px;
+}
+
+.iphone-plus .username-2 {
+  position: absolute;
+  width: 266px;
+  height: 36px;
+  top: 14px;
+  left: 279px;
+  font-family: "Exo", Helvetica;
+  font-weight: 600;
+  color: #918989;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.iphone-plus .overlap-3 {
+  position: absolute;
+  width: 556px;
+  height: 67px;
+  top: 445px;
+  left: 853px;
+}
+
+.iphone-plus .password-2 {
+  position: absolute;
+  width: 266px;
+  height: 36px;
+  top: 16px;
+  left: 290px;
+  font-family: "Exo", Helvetica;
+  font-weight: 600;
+  color: #918989;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+}
+
+.iphone-plus .submit-wrapper {
+  position: absolute;
+  width: 130px;
+  height: 53px;
+  top: 566px;
+  left: 1215px;
+  background-image: url(./img/polygon-2.svg);
+  background-size: 100% 100%;
+}
+
+.iphone-plus .submit {
+  position: absolute;
+  width: 98px;
+  height: 18px;
+  top: 16px;
+  left: 20px;
+  font-family: "Exo", Helvetica;
+  font-weight: 600;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 20px;
+  white-space: nowrap;
+}
+
+@media (max-width: 1511px) {
+  .iphone-plus.frame-wrapper {
+    display: none;
+  }
+}
+
+@media (min-width: 1512px) {
+  .iphone-plus.iphone-plus-wrapper {
+    display: none;
+  }
+}
+button{
+  background-color: transparent;
+}
+/* Add this to your CSS file or within a <style> tag in the HTML file */
+
+/* Set transparent background and increase input area */
+
+
+/* Remove the outline for the submit button */
+
+/* Optional: Adjust other styles as needed */
+input{
+  background-color: transparent;
+  outline: none;
+  border: none;
+}
